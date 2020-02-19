@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+  }
+  
+  #w {
+    margin-left: 10vw;
+    margin-top: 10vh;
+  }
